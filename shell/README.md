@@ -1,3 +1,8 @@
+# Basic usage
+
+```./log-archive.sh /path/to/backup```
+
+
 # Steps to make backup process run automatically
 
 ## 1. Installing cron implemenatations(cronie) on Arch
